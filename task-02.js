@@ -1,4 +1,4 @@
-const ingredients = ["Potatoes", "Mushrooms", "Garlic", "Tomatos", "Herbs", "Condiments"];
+const ingredients = ["Potatoes", "Mushrooms", "Garlic", "Tomatos", "Herbs", "Condiments",];
 
 let ul = document.getElementById("ingredients");
 
